@@ -1,4 +1,4 @@
 Kimera
 ======
 
-Kimera Keyboard Controller
+Kimera Board
